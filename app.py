@@ -2,9 +2,12 @@ import streamlit as st
 import pickle
 import numpy as np
 import time
+import joblib
+
 
 # Load model
-data = pickle.load(open('bhp_model.pkl', 'rb'))
+import os
+data = joblib.load('bhp_model.pkl')
 lr_clf = data['model']
 columns = data['columns']
 
