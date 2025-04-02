@@ -66,7 +66,7 @@ streamlit run app.py
 
 | Home Page | Prediction Result |  
 |-----------|------------------|  
-| ![Home Page](https://raw.githubusercontent.com/prerana-v27/Bengaluru-Home-Price-Prediction/main/home_screenshot.png) | ![Prediction Result](https://raw.githubusercontent.com/prerana-v27/Bengaluru-Home-Price-Prediction/main/result_screenshot.png) |  
+| ![Home Page](![Image](https://github.com/user-attachments/assets/eb1f50ab-f727-45e5-b54a-c23503cb7b14)) | ![Prediction Result](![Image](https://github.com/user-attachments/assets/fdbe5a7e-2e72-4f27-acfa-606171d5acc0)) |  
 
 ---
 
@@ -107,5 +107,6 @@ Contributions are **welcome!**
 🔗 **[GitHub Repository](https://github.com/prerana-v27/Bengaluru-Home-Price-Prediction)**  
 
 ---
+## Live Demo 
+![Image](https://github.com/user-attachments/assets/28c65b63-1ef9-424d-a302-21f5dbd89c02)
 
-This README is **well-structured, professional, and visually appealing.** Let me know if you need any modifications! 🚀🔥
