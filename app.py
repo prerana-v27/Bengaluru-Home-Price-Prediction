@@ -77,6 +77,7 @@ if st.button("🚀 **Estimate Price**"):
         progress_bar.progress(percent)
     price = predict_price(location, sqft, bath, bhk)
     st.markdown(f'<div class="green-bar">🏠 Estimated House Price: ₹{price:,.2f} Lakhs</div>', unsafe_allow_html=True)
+    st.balloons()
 
 
 
