@@ -64,9 +64,11 @@ streamlit run app.py
 
 ## 📷 **Screenshots**  
 
-| Home Page | Prediction Result |  
-|-----------|------------------|  
-| ![Home Page](![Image](https://github.com/user-attachments/assets/eb1f50ab-f727-45e5-b54a-c23503cb7b14)) | ![Prediction Result](![Image](https://github.com/user-attachments/assets/fdbe5a7e-2e72-4f27-acfa-606171d5acc0)) |  
+| Home Page |   
+![Image](https://github.com/user-attachments/assets/eb1f50ab-f727-45e5-b54a-c23503cb7b14) 
+
+| Prediction Result |
+![Image](https://github.com/user-attachments/assets/fdbe5a7e-2e72-4f27-acfa-606171d5acc0)|  
 
 ---
 
