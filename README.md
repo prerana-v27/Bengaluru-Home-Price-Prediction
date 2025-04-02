@@ -86,8 +86,7 @@ streamlit run app.py
 ## 💡 **Future Enhancements**  
 ✅ Improve model accuracy with **advanced ML models**  
 ✅ Add **more interactive UI components**  
-✅ Deploy on **Streamlit Cloud**  
-
+ 
 ---
 
 ## 🤝 **Contributing**  
