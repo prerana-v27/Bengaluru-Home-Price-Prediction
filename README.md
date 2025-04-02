@@ -38,8 +38,8 @@
 
 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/prerana-v27/Bengaluru-Home-Price-Prediction.git
-cd Bengaluru-Home-Price-Prediction
+[git clone https://github.com/prerana-v27/Bengaluru-Home-Price-Prediction.git
+cd Bengaluru-Home-Price-Prediction](https://github.com/prerana-v27/Bengaluru-Home-Price-Prediction.git)
 ```  
 
 2️⃣ Install dependencies  
