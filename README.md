@@ -73,8 +73,6 @@ streamlit run app.py
 ## 📌 **Project Structure**  
 ```
 📂 Bengaluru-Home-Price-Prediction  
-│-- 📂 assets/               # Contains background image  
-│-- 📂 model/                # Trained ML model  
 │-- 📄 app.py                # Streamlit app  
 │-- 📄 bhp_model.pkl         # Pickle file with trained model  
 │-- 📄 requirements.txt      # Dependencies  
@@ -86,7 +84,7 @@ streamlit run app.py
 ## 💡 **Future Enhancements**  
 ✅ Improve model accuracy with **advanced ML models**  
 ✅ Add **more interactive UI components**  
-✅ Deploy on **Streamlit Cloud / AWS / Heroku**  
+✅ Deploy on **Streamlit Cloud**  
 
 ---
 
